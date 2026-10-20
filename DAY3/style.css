@@ -1,0 +1,29 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: cadetblue;
+    margin: 2.5%;
+    font-size: 500%;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: coral;
+    padding: 5%;
+    font-size: larger;
+}
+body{
+    background-color: antiquewhite;
+}
+img{
+ height: 50%;
+ padding: 5%;
+ 
+}
+li{
+    text-align: center;
+    letter-spacing: 50%;
+}
+li:hover{
+    color: blueviolet;
+}
